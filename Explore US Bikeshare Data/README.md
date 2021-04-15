@@ -53,5 +53,3 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 * chicago.csv
 * new_york_city.csv
 * washington.csv
-
-
