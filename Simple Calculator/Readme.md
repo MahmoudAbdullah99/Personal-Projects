@@ -4,7 +4,7 @@
 A simple GUI calculator to do the basic math operations with some few  other operations, I used Tkinter built-in module to make the GUI of the app.
 ***
 #### Screenshot:
-![](/Personal-Projects/Simple Calculator/img/img_1.png)
+![](https://github.com/MahmoudAbdullah99/Personal-Projects/blob/Master/Simple%20Calculator/img/img_1.png)
 #### Modules and Libraries Used:
 * tkinter
 * math
