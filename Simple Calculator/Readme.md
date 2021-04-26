@@ -5,11 +5,13 @@ A simple GUI calculator to do the basic math operations with some few  other ope
 ***
 #### Screenshot:
 ![](https://github.com/MahmoudAbdullah99/Personal-Projects/blob/Master/Simple%20Calculator/img/img_1.png)
+***
+#### Language: Python
 #### Modules and Libraries Used:
 * #### tkinter: used in making the gui to the app.
 * #### math: used to operates the base math operations to the inputs from the user
 * #### parser: used to parse the input before handling it and doing the mathematical operations.
-#### Language: Python
+***
 ### Operations:
 * Addition
 * Subtraction
